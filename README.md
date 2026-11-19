@@ -86,4 +86,4 @@ gnome-extensions pack --force \
 
 ## Contributors
 
-- OpenAI Codex
+- [OpenAI Codex](https://github.com/codex)
