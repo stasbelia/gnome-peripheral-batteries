@@ -1,0 +1,11 @@
+{
+  "uuid": "peripheral-batteries@stas.local",
+  "name": "Peripheral Batteries",
+  "description": "Show battery levels for wireless keyboards, mice, and audio devices in Quick Settings and the top bar.",
+  "settings-schema": "org.gnome.shell.extensions.peripheral-batteries",
+  "shell-version": [
+    "51"
+  ],
+  "version": 7,
+  "gettext-domain": "peripheral-batteries@stas.local"
+}

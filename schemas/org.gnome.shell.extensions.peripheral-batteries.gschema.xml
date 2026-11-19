@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <enum id="org.gnome.shell.extensions.peripheral-batteries.Placement">
+    <value nick="quick" value="0"/>
+    <value nick="panel" value="1"/>
+    <value nick="both" value="2"/>
+  </enum>
+  <schema id="org.gnome.shell.extensions.peripheral-batteries" path="/org/gnome/shell/extensions/peripheral-batteries/">
+    <key name="placement" enum="org.gnome.shell.extensions.peripheral-batteries.Placement">
+      <default>'quick'</default>
+      <summary>Default display location</summary>
+    </key>
+    <key name="show-unknown" type="b">
+      <default>true</default>
+      <summary>Show devices that do not report a battery level</summary>
+    </key>
+    <key name="show-stale" type="b">
+      <default>true</default>
+      <summary>Show the last charge reported by a sleeping USB peripheral</summary>
+    </key>
+    <key name="hide-lock-button" type="b">
+      <default>false</default>
+      <summary>Hide the screen lock button while device batteries appear in Quick Settings</summary>
+    </key>
+    <key name="panel-names" type="b">
+      <default>false</default>
+      <summary>Show device names in the top bar</summary>
+    </key>
+    <key name="panel-limit" type="i">
+      <range min="1" max="8"/>
+      <default>4</default>
+      <summary>Maximum number of devices shown directly on the top bar</summary>
+    </key>
+    <key name="low-threshold" type="i">
+      <range min="0" max="100"/>
+      <default>20</default>
+      <summary>Percentage at or below which to highlight charge, or zero to disable</summary>
+    </key>
+    <key name="known-devices" type="a{sa{ss}}">
+      <default>{}</default>
+      <summary>Detected devices and their metadata</summary>
+    </key>
+    <key name="device-settings" type="a{sa{ss}}">
+      <default>{}</default>
+      <summary>Per-device presentation overrides</summary>
+    </key>
+  </schema>
+</schemalist>

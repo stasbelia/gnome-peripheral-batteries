@@ -1,0 +1,10 @@
+.peripheral-batteries-quick { padding: 0 3px; }
+.peripheral-batteries-panel { spacing: 9px; }
+.peripheral-battery-row { spacing: 4px; }
+.peripheral-battery-icon { icon-size: 14px; }
+.peripheral-battery-panel-name { max-width: 100px; }
+.peripheral-battery-menu-name { max-width: 285px; }
+.peripheral-battery-label, .peripheral-battery-overflow { font-size: 9pt; font-weight: 600; }
+.peripheral-battery-stale, .peripheral-battery-overflow { color: #b5b5b5; }
+.peripheral-battery-low { color: #f6d32d; }
+.peripheral-battery-charging { color: #8ff0a4; }

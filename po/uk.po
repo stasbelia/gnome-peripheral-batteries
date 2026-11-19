@@ -1,0 +1,224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Peripheral Batteries 7\n"
+"PO-Revision-Date: 2026-11-19 00:00+0200\n"
+"Last-Translator: Peripheral Batteries contributors\n"
+"Language-Team: Ukrainian\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "A ~ marks outdated readings from USB receivers."
+msgstr "Для USB-приймачів застарілий відсоток позначається знаком ~."
+
+msgid "Access to the USB receiver was denied."
+msgstr "Немає доступу до USB-приймача."
+
+msgid "Audio device"
+msgstr "Аудіопристрій"
+
+msgid "Automatic"
+msgstr "Автоматично"
+
+msgid "Battery"
+msgstr "Батарея"
+
+msgid "Battery diagnostics"
+msgstr "Діагностика заряду"
+
+msgid "Battery level"
+msgstr "Рівень заряду"
+
+msgid "Battery percentage available."
+msgstr "Відсоток заряду доступний."
+
+msgid "Battery readings through this USB receiver are not supported."
+msgstr "Зчитування заряду через цей USB-приймач не підтримується."
+
+msgid "Bluetooth device"
+msgstr "Пристрій Bluetooth"
+
+msgid "Both"
+msgstr "В обох місцях"
+
+msgid "Click the indicator to see additional devices."
+msgstr "Решту можна побачити, натиснувши на індикатор."
+
+msgid "Connect a wireless device while the extension is enabled."
+msgstr "Підключіть бездротовий пристрій, коли розширення ввімкнено."
+
+msgid "Critical"
+msgstr "Критичний"
+
+msgid "Custom icon name"
+msgstr "Власна назва"
+
+msgid "Detected devices"
+msgstr "Виявлені пристрої"
+
+msgid "Device is not currently detected."
+msgstr "Пристрій зараз не виявлено."
+
+msgid "Device type"
+msgstr "Тип пристрою"
+
+msgid "Devices"
+msgstr "Пристрої"
+
+msgid "Devices shown in the top bar"
+msgstr "Пристроїв на верхній панелі"
+
+msgid "Display"
+msgstr "Показ"
+
+msgid "Display name"
+msgstr "Назва для показу"
+
+msgid "Earbuds"
+msgstr "Навушники-вкладиші"
+
+msgid "Extension Preferences"
+msgstr "Налаштування розширення"
+
+msgid "Full"
+msgstr "Повний"
+
+msgid "Gamepad"
+msgstr "Геймпад"
+
+msgid "Headset"
+msgstr "Гарнітура"
+
+msgid "Hide"
+msgstr "Приховати"
+
+msgid "Hide the screen lock button"
+msgstr "Ховати кнопку блокування екрана"
+
+msgid "High"
+msgstr "Високий"
+
+msgid "Icon"
+msgstr "Іконка"
+
+msgid "Icon name from the theme"
+msgstr "Назва іконки з теми"
+
+msgid "Icon not found in the current theme"
+msgstr "Іконку не знайдено в поточній темі"
+
+msgid "Keyboard"
+msgstr "Клавіатура"
+
+msgid "Low"
+msgstr "Низький"
+
+msgid "Low battery threshold (%)"
+msgstr "Поріг низького заряду, %"
+
+msgid "Makes room for battery readings in the Quick Settings header."
+msgstr "Звільняє місце, коли заряд пристроїв показано вгорі швидких налаштувань."
+
+msgid "Mouse"
+msgstr "Миша"
+
+msgid "No devices detected yet"
+msgstr "Ще немає пристроїв"
+
+msgid "Normal"
+msgstr "Середній"
+
+msgid "Other device"
+msgstr "Інший пристрій"
+
+msgid "Over-ear headphones"
+msgstr "Повнорозмірні навушники"
+
+msgid "Peripheral Batteries"
+msgstr "Заряд периферії"
+
+msgid "Pin device"
+msgstr "Закріпити пристрій"
+
+msgid "Placement"
+msgstr "Розташування"
+
+msgid "Quick Settings"
+msgstr "Швидкі налаштування"
+
+msgid "Reset device settings"
+msgstr "Скинути налаштування пристрою"
+
+msgid "Set to 0 to turn off percentage-based highlighting."
+msgstr "0 вимикає підсвічування за відсотком."
+
+msgid "Show battery levels in"
+msgstr "Показувати заряд"
+
+msgid "Show device names in the top bar"
+msgstr "Назви пристроїв на верхній панелі"
+
+msgid "Show devices without battery readings"
+msgstr "Пристрої без показника заряду"
+
+msgid "Show in"
+msgstr "Де показувати"
+
+msgid "Show the last known battery level"
+msgstr "Останній відомий заряд"
+
+msgid "Show this device before unpinned devices."
+msgstr "Показувати цей пристрій перед незакріпленими."
+
+msgid "Showing the last known battery level."
+msgstr "Показано останній відомий рівень заряду."
+
+msgid "Shows a dash when the device has no battery reading."
+msgstr "Показувати прочерк, коли пристрій не повідомляє заряд."
+
+msgid "Speaker"
+msgstr "Колонка"
+
+msgid "The USB receiver did not reply. Try waking the device."
+msgstr "USB-приймач не відповів. Спробуйте розбудити пристрій."
+
+msgid "The USB receiver is temporarily unavailable."
+msgstr "USB-приймач тимчасово недоступний."
+
+msgid "The device reports a battery level without a percentage."
+msgstr "Пристрій повідомляє рівень заряду без відсотка."
+
+msgid "The last known battery level is hidden by your display settings."
+msgstr "Останній відомий заряд приховано в налаштуваннях показу."
+
+msgid "The system has not reported a battery level."
+msgstr "Система не повідомила рівень заряду."
+
+msgid "Top Bar"
+msgstr "Верхня панель"
+
+msgid "USB receiver"
+msgstr "USB-приймач"
+
+msgid "Use device type"
+msgstr "За типом пристрою"
+
+msgid "Use global setting"
+msgstr "Як для всіх пристроїв"
+
+msgid "Waiting for a battery report from the USB receiver."
+msgstr "Очікування даних про заряд від USB-приймача."
+
+msgid "Waiting for the extension to check this device."
+msgstr "Очікування перевірки пристрою."
+
+msgid "Wireless connection"
+msgstr "Бездротове підключення"
+
+msgid "Wireless device"
+msgstr "Бездротовий пристрій"
+
+msgid "charging"
+msgstr "заряджається"
